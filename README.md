@@ -7,7 +7,9 @@ The program is contained inside STUDINFO folder. Access the program file name Fo
 
 # Prerequisites
 Visual Basics 2015
+
 Microsoft Access DB 
+
 This programis accessible on Windows 10/8/7/Xp
 
 # Installing
