@@ -1,8 +1,8 @@
 # Student_data_entry
 Software application for storing and accessing student data.
-
+With all operations like, create, delete, update, save, clear.
 # Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Install this program from the desired .exe setup file. And launch the generated executable to access the application.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Install this program from the desired setup.exe file. And launch the generated executable to access the application namely, STUDINFO
 
 # Prerequisites
 This programis accessible on Windows 10/8/7/Xp
